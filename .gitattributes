@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+##Nesse conteúdo, você vai acompanhar como aplicar estruturas 
+de automatização em seu banco de dados, aplicando triggers
+(gatilhos) e stored procedures (procedimentos armazenados). 
+Para programar adequadamente esses procedimentos, 
+devemos entender as demandas do projeto. Em nosso 
+exemplo da clínica médica, as demandas são:
+• a cada inclusão de pedido de exame, um gatilho (trigger) 
+calcula o valor a ser pago e registra na própria tabela, seguindo 
+o critério:
+• Plano de saúde Especial = 100% de desconto;
+• Plano de saúde Padrão = 30% de desconto;
+• Plano de saúde Básico = 10% de desconto;
+• criação de procedimentos armazenados (stored procedures) 
+para consulta de agenda de médicos, exames solicitados, 
+histórico de pagamentos e resumo de pagamentos.## 
