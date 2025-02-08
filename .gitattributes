@@ -1,4 +1,4 @@
-##Nesse conteúdo, você vai acompanhar como aplicar estruturas 
+Nesse conteúdo, você vai acompanhar como aplicar estruturas 
 de automatização em seu banco de dados, aplicando triggers
 (gatilhos) e stored procedures (procedimentos armazenados). 
 Para programar adequadamente esses procedimentos, 
@@ -12,4 +12,4 @@ o critério:
 • Plano de saúde Básico = 10% de desconto;
 • criação de procedimentos armazenados (stored procedures) 
 para consulta de agenda de médicos, exames solicitados, 
-histórico de pagamentos e resumo de pagamentos.## 
+histórico de pagamentos e resumo de pagamentos. 
